@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bharat-Goswami/Mock-api.git"
+    "url": "git+https://github.com/riteshmaurya089/mock-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bharat-Goswami/Mock-api/issues"
+    "url": "https://https://github.com/riteshmaurya089/mock-api/issues"
   },
-  "homepage": "https://github.com/Bharat-Goswami/Mock-api#readme",
+  "homepage": "https://https://github.com/riteshmaurya089/mock-api#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }
